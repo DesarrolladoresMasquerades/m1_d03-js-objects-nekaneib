@@ -30,4 +30,4 @@ for (key in ironhacker){
 
 
 // 6: check if ironhacker has property 'works at'
-console.log(!ironhacker.worksAt)
+console.log(ironhacker.worksAt)
